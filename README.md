@@ -34,12 +34,3 @@ Retrieve list of tourist attractions from Tripadvisor
 	- main.py
   		- Use threading to allow crawling of multiple pages at once.
 
-
-
-
-
-
-Made using webcrawler tutorial from ‘thenewboston’ youtube channel. After which modified to:
--	Only search pages that contain ‘Attraction_Review’ in the link
--	Extract relevant text details regarding the tourist attraction.
-
